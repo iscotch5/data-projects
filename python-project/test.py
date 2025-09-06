@@ -17,3 +17,5 @@ favorite_course = input("What is your favorite course? ")
 print(favorite_course)
 worst_course = input("What is your least favorite course? ")
 print(worst_course)
+if work_place == "FareHarbor":
+    print(work_place)
