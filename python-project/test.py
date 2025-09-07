@@ -19,3 +19,5 @@ worst_course = input("What is your least favorite course? ")
 print(worst_course)
 if work_place == "FareHarbor":
     print(work_place)
+elif work_place != "FareHarbor":
+    print("No Job")
