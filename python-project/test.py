@@ -21,3 +21,8 @@ if work_place == "FareHarbor":
     print(work_place)
 elif work_place != "FareHarbor":
     print("No Job")
+
+if course_name != "Firethorn":
+    print(course_name)
+else: 
+    print(course_name_two)
