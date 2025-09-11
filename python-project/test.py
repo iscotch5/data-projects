@@ -26,3 +26,8 @@ if course_name != "Firethorn":
     print(course_name)
 else: 
     print(course_name_two)
+
+def hello_golf_course():
+    print("Hello from Spring Valley Golf Course!")
+
+hello_golf_course()
